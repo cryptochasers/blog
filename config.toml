@@ -1,0 +1,80 @@
+baseurl = "https://cryptochasers.net"
+languageCode = "en-us"
+Title = "Crypto Chasers Confidential"
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Copyright 2018 C.C.C."
+theme = "hugo_theme_pickles"
+[params]
+  paginate = 10
+  # Social accounts. Link to these accounts are displayed in the header and
+  # footer
+  twitter = "crypto_chasers"
+  telegram = "cryptochasersconfd"
+  # instagram = "Your Instagram username"
+  # googleplus = "Your Google+ account URL" # https://plus.google.com/u/0/xxxxxx
+  #github = "Your GitHub username"
+  #gitlab = "Your GitLab username"
+  #npm = "Your npm username"
+  #codepen = "Your CodePen username"
+  #dribbble = "Your Dribbble username"
+  #fivehundredpx = "Your 500px username" # 500px
+  #flickr = "Your Flickr username"
+  #pinterest = "Your Pinterest username"
+  #tumblr = "Your Tumblr username"
+  #vimeo = "Your Vimeo username"
+  #youtube = "Your YouTube username"
+  #linkedin = "Your LinkedIn username"
+  # Disqus shortname
+  disqus = ""
+  # Google Analytics API key.
+  ga_api_key = "UA-113788402-1"
+  author = "Crypto Chasers Confidential"
+  authorwebsite = "https://cryptochasers.net"
+  avatar = "/avatar.png"
+  contact = "https://t.me/cryptochasersconfd"
+  bio = "Crypto Chasers Confidential is a free high quality fundamental analysis group that currently operates primarily on Telegram and Twitter sending out consistent updates and documents regarding altcoins as well as the large cryptocurrency space."
+  # Short subtitle/tagline. This is displayed in the header.
+  subtitle = "Free high quality fundamental analysis on-par with paid groups"
+  # Logo image. This is displayed ogp image.
+  logo = "/avatar.png"
+  favicon = "/avatar.png"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Documents"
+    url = "/docs"
+    weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 80
+
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = false
+
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
+
+  [[related.indices]]
+  name = "keywords"
+  weight = 150
+  [[related.indices]]
+  name  = "author"
+  toLower = true
+  weight = 30
+  [[related.indices]]
+  name  = "tags"
+  weight = 100
+  [[related.indices]]
+  name  = "date"
+  weight = 10
+  pattern = "2017"
