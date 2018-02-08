@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cryptochasers.net/posts/informative-guide-to-scams-02082018/</loc>
+    <lastmod>2018-02-08T15:30:27-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cryptochasers.net/posts/view-docs-02072018/</loc>
     <lastmod>2018-02-07T17:18:12-05:00</lastmod>
   </url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>https://cryptochasers.net/</loc>
-    <lastmod>2018-02-07T17:18:12-05:00</lastmod>
+    <lastmod>2018-02-08T15:30:27-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,7 +75,7 @@
   
   <url>
     <loc>https://cryptochasers.net/posts/</loc>
-    <lastmod>2018-02-07T17:18:12-05:00</lastmod>
+    <lastmod>2018-02-08T15:30:27-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -83,6 +88,18 @@
   <url>
     <loc>https://cryptochasers.net/categories/scam-alert/</loc>
     <lastmod>2018-02-07T16:31:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cryptochasers.net/tags/scams/</loc>
+    <lastmod>2018-02-08T15:30:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cryptochasers.net/categories/scams/</loc>
+    <lastmod>2018-02-08T15:30:27-05:00</lastmod>
     <priority>0</priority>
   </url>
   
