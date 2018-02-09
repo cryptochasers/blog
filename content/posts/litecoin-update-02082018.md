@@ -31,4 +31,4 @@ Release of Litecoin Core 0.15.1 release candidate 1 on February 7th has been ver
 
 ## Concluding thoughts and why we're very optimistic on Litecoin's future
 
-With the addition of more vendors and the 0 fee LitePay card, the bull case for Litecoin is looking very good. We're optimistic in regards to Litecoins long term future based on the sole reason that the fundamentals are getting stronger everyday. We're excited to see further adoption of the lightning network and eventually the adoption of [atomic swaps](https://www.cryptocompare.com/coins/guides/what-are-atomic-swaps/) as well as the ability to write smart contracts based on Litecoin.
+With the addition of more vendors and the 0 fee LitePay card, the bull case for Litecoin is looking very good. We're optimistic in regards to Litecoin's long term future based on the sole reason that the fundamentals are getting stronger everyday. We're excited to see further adoption of the lightning network and eventually the adoption of [atomic swaps](https://www.cryptocompare.com/coins/guides/what-are-atomic-swaps/) as well as the ability to write smart contracts based on Litecoin.
