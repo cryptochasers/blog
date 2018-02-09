@@ -88,6 +88,7 @@ You may see a cloud mining scam try to do an ICO in order to offset business cos
 ## Fake ICOs - Overpromise, zero delivery
 
 This is perhaps the most common scam in the cryptocurrency world that I'm sure many of our readers are aware of. In this scam a group of people create an ICO, most likely on Ethereum due to the large audience already aware of Ethereum tokens. The group then starts to promise big things:
+
 - They may create whitepapers through plagiarism
 - Add a fake team & advisors section to their website
 - Create a large scale guerilla marketing campaign in which they do airdrops, create large Telegram groups and channels
