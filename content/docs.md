@@ -10,6 +10,7 @@ You can view all of the currently uploaded documents below:
 **February, 2018**
 
 - [Ardor (ARDR)](/documents/coins/02-2018/ardor.pdf)
+- [Enigma (ENR)](/documents/coins/02-2018/enigma.pdf)
 - [IOStoken (IOST)](/documents/coins/02-2018/iostoken.pdf)
 - [Nebulas (NAS)](/documents/coins/02-2018/nebulas.pdf)
 - [RChain (RHOC)](/documents/coins/02-2018/rchain.pdf)
