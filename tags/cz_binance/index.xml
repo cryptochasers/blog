@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cz_binance on Crypto Chasers Confidential</title>
+    <link>https://cryptochasers.net/tags/cz_binance/</link>
+    <description>Recent content in Cz_binance on Crypto Chasers Confidential</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2018 C.C.C.</copyright>
+    <lastBuildDate>Fri, 09 Feb 2018 13:54:38 -0500</lastBuildDate>
+    
+	<atom:link href="https://cryptochasers.net/tags/cz_binance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Binance Issues Resolved: Data backup restored, system updated</title>
+      <link>https://cryptochasers.net/posts/binance-issues-resolved-02092018/</link>
+      <pubDate>Fri, 09 Feb 2018 13:54:38 -0500</pubDate>
+      
+      <guid>https://cryptochasers.net/posts/binance-issues-resolved-02092018/</guid>
+      <description>After the closure of Binance the spread of FUD was rampant up to a point where John McAfee was in an all out Twitter war with the CEO of Binance Changpeng Zhao (CZ). The issues were resolved on 10am UTC time on February 9th. After the trading went live web traffic on Binance increased substantially and the site is currently experiencing constant denial of service attacks due to the combination of high traffic as well as malicious players running their own denial of service attacks.</description>
+    </item>
+    
+  </channel>
+</rss>

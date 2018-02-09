@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2018 C.C.C.</copyright>
-    <lastBuildDate>Thu, 08 Feb 2018 22:35:15 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2018 13:54:38 -0500</lastBuildDate>
     
 	<atom:link href="https://cryptochasers.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Binance Issues Resolved: Data backup restored, system updated</title>
+      <link>https://cryptochasers.net/posts/binance-issues-resolved-02092018/</link>
+      <pubDate>Fri, 09 Feb 2018 13:54:38 -0500</pubDate>
+      
+      <guid>https://cryptochasers.net/posts/binance-issues-resolved-02092018/</guid>
+      <description>After the closure of Binance the spread of FUD was rampant up to a point where John McAfee was in an all out Twitter war with the CEO of Binance Changpeng Zhao (CZ). The issues were resolved on 10am UTC time on February 9th. After the trading went live web traffic on Binance increased substantially and the site is currently experiencing constant denial of service attacks due to the combination of high traffic as well as malicious players running their own denial of service attacks.</description>
+    </item>
     
     <item>
       <title>Litecoin Update: Multiple payment processors, growing lightning network nodes, Litecoin Core 0.15.1rc1</title>
@@ -77,7 +86,7 @@ Aliant Payments the most recent to add Litecoin to their payment processor is a 
       <guid>https://cryptochasers.net/docs/</guid>
       <description> You can view all of the currently uploaded documents below:
 Coins February, 2018
- Ardor (ARDR) IOStoken (IOST) Nebulas (NAS) RChain (RHOC) Telcoin (TEL) Vibe (VIBE) Zilliqa (ZIL)  Events February, 2018
+ Ardor (ARDR) Enigma (ENR) IOStoken (IOST) Nebulas (NAS) RChain (RHOC) Telcoin (TEL) Vibe (VIBE) Zilliqa (ZIL)  Events February, 2018
  Analysis of the SEC &amp;amp; CFTC Senate Hearing  FUD Reports February, 2018
  FUD Report, February 1st  Promising Altcoins February, 2018
  Promising Altcoins  CCC Weekly Reports  January 29 - February 2, 2018  </description>
