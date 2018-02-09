@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lightning Network on Crypto Chasers Confidential</title>
+    <link>https://cryptochasers.net/tags/lightning-network/</link>
+    <description>Recent content in Lightning Network on Crypto Chasers Confidential</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2018 C.C.C.</copyright>
+    <lastBuildDate>Thu, 08 Feb 2018 22:35:15 -0500</lastBuildDate>
+    
+	<atom:link href="https://cryptochasers.net/tags/lightning-network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Litecoin Update: Multiple payment processors, growing lightning network nodes, Litecoin Core 0.15.1rc1</title>
+      <link>https://cryptochasers.net/posts/litecoin-update-02082018/</link>
+      <pubDate>Thu, 08 Feb 2018 22:35:15 -0500</pubDate>
+      
+      <guid>https://cryptochasers.net/posts/litecoin-update-02082018/</guid>
+      <description>This week marks a very positive week as multiple payment processors have announced support for Litecoin. There is much interest in the LitePay payment platform similar to BitPay but without the 5% fees. LitePay is expected to launch on February 26th, 2018.
+Aliant Payments the most recent to add Litecoin to their payment processor is a large credit card processing &amp;amp; merchant services provider - it is one of the first to cryptocurrency solutions (BTC, LTC, ETH) for merchants.</description>
+    </item>
+    
+  </channel>
+</rss>
