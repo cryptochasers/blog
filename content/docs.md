@@ -14,7 +14,7 @@ You can view all of the currently uploaded documents below:
 - [IOStoken (IOST)](/documents/coins/02-2018/iostoken.pdf)
 - [Nebulas (NAS)](/documents/coins/02-2018/nebulas.pdf)
 - [RChain (RHOC)](/documents/coins/02-2018/rchain.pdf)
-- [Telcoin (TEL)](/docuents/coins/02-2018/telcoin.pdf)
+- [Telcoin (TEL)](/documents/coins/02-2018/telcoin.pdf)
 - [Vibe (VIBE)](/documents/coins/02-2018/vibe.pdf)
 - [Zilliqa (ZIL)](/documents/coins/02-2018/zil.pdf)
 
