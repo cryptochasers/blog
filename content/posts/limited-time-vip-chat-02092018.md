@@ -1,5 +1,5 @@
 +++
-title = "Join the free C.C.C. VIP Telegram: Limited currently to a maximum of 75 members"
+title = "[DONE] Join the free C.C.C. VIP Telegram: Limited currently to a maximum of 75 members"
 description = "For a limited time we will be opening up up our VIP Telegram to 75 members"
 date = 2018-02-09T14:25:12-05:00
 draft = false
@@ -18,4 +18,6 @@ For a limited time we have decided to open up our VIP Telegram chat to a current
 
 Once the 75 member limit has been reached we will invalidate the join link that is posted below, don't worry as our platform grows there will be other opportunities to join the VIP group. Thank you for your continued support!
 
-## [Join Link for the C.C.C. VIP Telegram](https://t.me/joinchat/ExvpBlCWcweHdVnBVKgsQQ)
+> **Update:** Our 75 VIP chat member limit has been reached stay on the look out for more openings we will release in the future.
+
+##  <s> Join Link for the C.C.C. VIP Telegram </s>
