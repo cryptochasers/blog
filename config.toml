@@ -32,9 +32,9 @@ theme = "hugo_theme_pickles"
   authorwebsite = "https://cryptochasers.net"
   avatar = "/avatar.png"
   contact = "https://t.me/cryptochasersconfd"
-  bio = "Crypto Chasers Confidential is a free high quality fundamental analysis group that currently operates primarily on Telegram and Twitter sending out consistent updates and documents regarding altcoins as well as the large cryptocurrency space."
+  bio = "Crypto Chasers Confidential is a team of software and investment professionals with years of experiences in the cryptocurrency space. We provide high quality fundamental analysis reports for altcoins and important market updates, and distribute them on our Twitter and Telegram channels."
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Free high quality fundamental analysis on-par with paid groups"
+  subtitle = "Cryptocurrency market analysis reports by experienced software engineers and investors"
   # Logo image. This is displayed ogp image.
   logo = "/avatar.png"
   favicon = "/avatar.png"
