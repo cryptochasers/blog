@@ -20,8 +20,6 @@ John McAfee started believing that Binance was hacked and as an influencer he sp
 
 Changpeng Zhao (aka CZ) posted on Twitter that if users are experiencing trouble with the platform they should use the US and KR and subdomains.
 
-{{< tweet 961898898766770177 >}}
-
 Binance posted a thanks to its users by reducing fees until February 24th, 2018
 
 {{< tweet 961891102520258560 >}}

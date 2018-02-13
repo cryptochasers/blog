@@ -9,9 +9,11 @@ You can view all of the currently uploaded documents below:
 
 **February, 2018**
 
+- [Aelf (ELF)](/documents/coins/02-2018/aelf.pdf)
 - [Ardor (ARDR)](/documents/coins/02-2018/ardor.pdf)
 - [Enigma (ENR)](/documents/coins/02-2018/enigma.pdf)
 - [IOStoken (IOST)](/documents/coins/02-2018/iostoken.pdf)
+- [Nano (XRB)](/documents/coins/02-2018/nano.pdf)
 - [Nebulas (NAS)](/documents/coins/02-2018/nebulas.pdf)
 - [RChain (RHOC)](/documents/coins/02-2018/rchain.pdf)
 - [Telcoin (TEL)](/documents/coins/02-2018/telcoin.pdf)
@@ -39,6 +41,6 @@ You can view all of the currently uploaded documents below:
 ### CCC Weekly Reports
 
 - [January 29 - February 2, 2018](/documents/weekly/ccc-weekly-jan-29-feb-2.pdf)
-
+- [February 3 - February 10, 2018](/documents/weeky/ccc-weekly-feb-3-feb-10.pdf)
 
 
