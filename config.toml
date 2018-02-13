@@ -2,7 +2,7 @@ baseurl = "https://cryptochasers.net/"
 languageCode = "en-us"
 Title = "Crypto Chasers Confidential"
 # Copyright notice. This is displayer in the footer.
-copyright = "&copy; Copyright 2018 C.C.C."
+copyright = "&copy; Copyright 2018 Crypto Chasers Confidential"
 theme = "hugo_theme_pickles"
 [params]
   paginate = 10
