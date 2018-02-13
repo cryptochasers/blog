@@ -45,7 +45,7 @@ theme = "hugo_theme_pickles"
     weight = 1
 
 [[menu.main]]
-    name = "Documents"
+    name = "Free Reports"
     url = "/docs"
     weight = 2
 
