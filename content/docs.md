@@ -18,6 +18,7 @@ You can view all of the currently uploaded documents below:
 - [RChain (RHOC)](/documents/coins/02-2018/rchain.pdf)
 - [Telcoin (TEL)](/documents/coins/02-2018/telcoin.pdf)
 - [Vibe (VIBE)](/documents/coins/02-2018/vibe.pdf)
+- [Waltonchain (WTC)](/documents/coins/02-2018/walton.pdf)
 - [Zilliqa (ZIL)](/documents/coins/02-2018/zil.pdf)
 
 ### Events
