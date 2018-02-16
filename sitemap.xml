@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cryptochasers.net/posts/altcoins-update-02152018/</loc>
+    <lastmod>2018-02-15T17:14:57-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cryptochasers.net/posts/bitgrail-nano-incident-02122018/</loc>
     <lastmod>2018-02-12T21:34:01-05:00</lastmod>
   </url>
@@ -53,6 +58,24 @@
   </url>
   
   <url>
+    <loc>https://cryptochasers.net/tags/altcoins/</loc>
+    <lastmod>2018-02-15T17:14:57-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cryptochasers.net/categories/altcoins/</loc>
+    <lastmod>2018-02-15T17:14:57-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cryptochasers.net/tags/analysis/</loc>
+    <lastmod>2018-02-15T17:14:57-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://cryptochasers.net/tags/binance/</loc>
     <lastmod>2018-02-09T13:54:38-05:00</lastmod>
     <priority>0</priority>
@@ -72,12 +95,13 @@
   
   <url>
     <loc>https://cryptochasers.net/categories/</loc>
+    <lastmod>2018-02-15T17:14:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cryptochasers.net/</loc>
-    <lastmod>2018-02-12T21:34:01-05:00</lastmod>
+    <lastmod>2018-02-15T17:14:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,20 +112,14 @@
   </url>
   
   <url>
-    <loc>https://cryptochasers.net/categories/exchange/</loc>
-    <lastmod>2018-02-12T21:34:01-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://cryptochasers.net/tags/exchange/</loc>
     <lastmod>2018-02-12T21:34:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cryptochasers.net/categories/exchanges/</loc>
-    <lastmod>2018-02-09T13:54:38-05:00</lastmod>
+    <loc>https://cryptochasers.net/categories/exchange/</loc>
+    <lastmod>2018-02-12T21:34:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,8 +130,8 @@
   </url>
   
   <url>
-    <loc>https://cryptochasers.net/categories/fud-alert/</loc>
-    <lastmod>2018-02-07T16:27:45-05:00</lastmod>
+    <loc>https://cryptochasers.net/categories/exchanges/</loc>
+    <lastmod>2018-02-09T13:54:38-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,8 +142,14 @@
   </url>
   
   <url>
-    <loc>https://cryptochasers.net/categories/general/</loc>
-    <lastmod>2018-02-07T17:18:12-05:00</lastmod>
+    <loc>https://cryptochasers.net/categories/fud-alert/</loc>
+    <lastmod>2018-02-07T16:27:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cryptochasers.net/tags/fundamental/</loc>
+    <lastmod>2018-02-15T17:14:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -136,13 +160,19 @@
   </url>
   
   <url>
-    <loc>https://cryptochasers.net/categories/hack/</loc>
-    <lastmod>2018-02-12T21:34:01-05:00</lastmod>
+    <loc>https://cryptochasers.net/categories/general/</loc>
+    <lastmod>2018-02-07T17:18:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cryptochasers.net/tags/hack/</loc>
+    <lastmod>2018-02-12T21:34:01-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cryptochasers.net/categories/hack/</loc>
     <lastmod>2018-02-12T21:34:01-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -154,13 +184,13 @@
   </url>
   
   <url>
-    <loc>https://cryptochasers.net/categories/litecoin/</loc>
+    <loc>https://cryptochasers.net/tags/litecoin/</loc>
     <lastmod>2018-02-08T22:35:15-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cryptochasers.net/tags/litecoin/</loc>
+    <loc>https://cryptochasers.net/categories/litecoin/</loc>
     <lastmod>2018-02-08T22:35:15-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -197,13 +227,7 @@
   
   <url>
     <loc>https://cryptochasers.net/posts/</loc>
-    <lastmod>2018-02-12T21:34:01-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cryptochasers.net/categories/scam-alert/</loc>
-    <lastmod>2018-02-07T16:31:08-05:00</lastmod>
+    <lastmod>2018-02-15T17:14:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,8 +238,8 @@
   </url>
   
   <url>
-    <loc>https://cryptochasers.net/categories/scams/</loc>
-    <lastmod>2018-02-08T15:30:27-05:00</lastmod>
+    <loc>https://cryptochasers.net/categories/scam-alert/</loc>
+    <lastmod>2018-02-07T16:31:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -226,14 +250,14 @@
   </url>
   
   <url>
-    <loc>https://cryptochasers.net/tags/</loc>
-    <lastmod>2018-02-09T13:54:38-05:00</lastmod>
+    <loc>https://cryptochasers.net/categories/scams/</loc>
+    <lastmod>2018-02-08T15:30:27-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cryptochasers.net/categories/telegram/</loc>
-    <lastmod>2018-02-09T14:25:12-05:00</lastmod>
+    <loc>https://cryptochasers.net/tags/</loc>
+    <lastmod>2018-02-15T17:14:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -244,13 +268,25 @@
   </url>
   
   <url>
-    <loc>https://cryptochasers.net/categories/vip/</loc>
+    <loc>https://cryptochasers.net/categories/telegram/</loc>
     <lastmod>2018-02-09T14:25:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://cryptochasers.net/tags/update/</loc>
+    <lastmod>2018-02-15T17:14:57-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://cryptochasers.net/tags/vip/</loc>
+    <lastmod>2018-02-09T14:25:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cryptochasers.net/categories/vip/</loc>
     <lastmod>2018-02-09T14:25:12-05:00</lastmod>
     <priority>0</priority>
   </url>

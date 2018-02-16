@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2018 Crypto Chasers Confidential</copyright>
+    <lastBuildDate>Thu, 15 Feb 2018 17:14:57 -0500</lastBuildDate>
     
 	<atom:link href="https://cryptochasers.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Altcoins</title>
+      <link>https://cryptochasers.net/categories/altcoins/</link>
+      <pubDate>Thu, 15 Feb 2018 17:14:57 -0500</pubDate>
+      
+      <guid>https://cryptochasers.net/categories/altcoins/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exchange</title>
